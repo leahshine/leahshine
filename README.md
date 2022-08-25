@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leah Kim
 - 🌱 I’m currently learning HTML & CSS for WebDeveloping
-- 📫 Please reach by email: seongshine@gmail.com
+- 📫 Please reach by email: leah.kim621@gmail.com
 
 <!---
 leahshine/leahshine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
